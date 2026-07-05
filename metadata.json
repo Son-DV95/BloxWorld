@@ -1,0 +1,6 @@
+{
+  "name": "BloxWorld",
+  "description": "A 2D Roblox-inspired sandbox platformer where you can play, create custom levels, customize your avatar, and chat with AI NPCs using Gemini!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
